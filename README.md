@@ -2,6 +2,6 @@ Samuel Payne Project Portfolio
 # IT Projects
 
 # Data Analyst Projects
-Traffic Data Analysis
+Traffic Data Case Study
 
-NFL Data Exploration
+NFL Data Exploration 
