@@ -3,4 +3,5 @@ Samuel Payne Project Portfolio
 
 # Data Analyst Projects
 Traffic Data Analysis
+
 NFL Data Exploration
