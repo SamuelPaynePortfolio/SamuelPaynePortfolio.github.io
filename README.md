@@ -1,5 +1,6 @@
 Samuel Payne Project Portfolio
 # IT Projects
-# H1
+
 # Data Analyst Projects
-#H1
+Traffic Data Analysis
+NFL Data Exploration
